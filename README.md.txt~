@@ -7,5 +7,5 @@
     iii) dependencies: It contains all the dependencies to run the lab.
      iv) initialize.sh: initialize script creates the initial environment for the required lab by installing the server side dependencies for the lab and invokes the build script.It mention all the server-side dependencies of the lab in dependencies.txt. We have the following shell scripts for different environments- initialize ubuntu.sh,initialize fedora.sh, initialize centos.sh, initialize windows.bat.
       v) labspec.json : It has the build requirements, lab description, runtime environments for the required lab.
-  d) src: This folder contains all the sources of the particular lab. It also has a 'makefile' which will copy the lab source contents to the 'Build' folder which will be generated automatically.
+  d) src: This folder contains all the sources of the particular lab. It also has a 'makefile' which will copy the lab source contents to the 'Build' folder.
    
