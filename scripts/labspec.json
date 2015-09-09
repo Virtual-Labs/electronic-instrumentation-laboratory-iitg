@@ -38,7 +38,7 @@
                 "Electrical Engineering"
             ], 
             "id": "eee02", 
-            "integration_level": 5, 
+            "integration_level": 6, 
             "name": "Electronic Instrumentation Lab", 
             "server-side": true, 
             "status": "Released", 
