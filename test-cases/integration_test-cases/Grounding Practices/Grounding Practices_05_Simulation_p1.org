@@ -1,0 +1,33 @@
+* Author: Hrishikesh Baruah
+* Date Created: 21 March 2016
+* Environment
+  - OS: Windows 7, Ubuntu-16.04,Centos-6
+  - Browsers: Firefox-42.0,Chrome-47.0,chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GBRAM , 
+  - Processor:i7
+
+* Objective
+  - To view and perform experiments of "Grounding Practices" experiment
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/anthropology-iitg/blob/master/test-cases/integration_test-cases/Grounding Practices/Grounding Practices_04_Reference_smk.org][Grounding Practices_04_Reference_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+ 
+   1. Click on the Simulation link
+   2. It should re-direct to the Simulation page
+   3. Click on “ Click here to download the experiment” on the Grounding Practices
+   4. Extract the downloaded rar file and run the application.exe file to perform the simulation experiment
+
+* Expected result
+  
+    1.Simulation page should be opened
+    2.Content should be present with no distortions and Junk characters
+    3.Experiment rar file should get downloaded in the system
+    4.The experiment should run without any error
+
+* Review/comments
+

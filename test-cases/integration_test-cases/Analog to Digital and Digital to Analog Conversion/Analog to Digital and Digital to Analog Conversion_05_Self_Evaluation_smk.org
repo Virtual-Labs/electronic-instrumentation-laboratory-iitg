@@ -1,0 +1,28 @@
+* Author: Hrishikesh Baruah
+* Date Created: 15 March 2016
+* Environment
+  - OS: Windows 7, Ubuntu-16.04,Centos-6
+  - Browsers: Firefox-42.0,Chrome-47.0,chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GBRAM ,
+  - Processor:i7
+  
+
+* Objective
+  - To view the Simulation of the Analog to Digital and Digital to Analog Conversion Experiment
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/electronic-instrumentation-laboratory-iitg
+/blob/master/test-cases/integration_test-cases/Analog to Digital and Digital to Analog Conversion/Analog to Digital and Digital to Analog Conversion_04_Simulation_smk.org][Analog to Digital and Digital to Analog Conversion_03_Procedure_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+  1. Click on the Self Evaluation link
+  2. It should re-direct to the Self Evaluation page
+
+* Expected result
+  1. Self Evaluation page should be opened
+  2. Content should be present with no distortions and Junk characters
+
+* Review/comments

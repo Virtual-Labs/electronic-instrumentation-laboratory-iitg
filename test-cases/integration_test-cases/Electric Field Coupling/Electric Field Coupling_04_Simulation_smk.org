@@ -1,0 +1,28 @@
+* Author: Hrishikesh Baruah
+* Date Created: 15 March 2016
+* Environment
+  - OS: Windows 7, Ubuntu-16.04,Centos-6
+  - Browsers: Firefox-42.0,Chrome-47.0,chromium-45.0
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GBRAM ,
+  - Processor:i7
+  - Plugin : LabView runtime engine Plugin
+
+* Objective
+  - To view the Electric Field Coupling
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/electronic-instrumentation-laboratory-iitg
+/blob/master/test-cases/integration_test-cases/Electric Field Coupling/Electric Field Coupling_03_Procedure_smk.org][Electric Field Coupling_03_Procedure_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+  1. Click on the Simulation link
+  2. It should re-direct to the Simulation page
+
+* Expected result
+  1. Simulation page should be opened
+  2. Content should be present with no distortions and Junk characters
+
+* Review/comments
