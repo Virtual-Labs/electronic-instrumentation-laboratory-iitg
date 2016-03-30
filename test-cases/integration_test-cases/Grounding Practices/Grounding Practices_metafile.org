@@ -1,0 +1,6 @@
+S.no		Test case link
+1. 	[[https://github.com/Virtual-Labs/electronic-instrumentation-laboratory-iitg/blob/master/test-cases/integration_test-cases/Grounding Practices/Grounding Practices_01_Usability_smk.org][Grounding Practices_01_Usability_smk.org]]
+2. 	[[https://github.com/Virtual-Labs/electronic-instrumentation-laboratory-iitg/blob/master/test-cases/integration_test-cases/Grounding Practices/Grounding Practices_02_Theory_smk.org][Grounding Practices_02_Theory_smk.org]]
+3. 	[[https://github.com/Virtual-Labs/electronic-instrumentation-laboratory-iitg/blob/master/test-cases/integration_test-cases/Grounding Practices/Grounding Practices_03_Simulation_smk.org][Grounding Practices_03_Simulation_smk.org]]
+4. 	[[https://github.com/Virtual-Labs/electronic-instrumentation-laboratory-iitg/blob/master/test-cases/integration_test-cases/Grounding Practices/Grounding Practices_04_Reference_smk.org][Grounding Practices_04_Reference_smk.org]]
+5. 	[[https://github.com/Virtual-Labs/electronic-instrumentation-laboratory-iitg/blob/master/test-cases/integration_test-cases/Grounding Practices/Grounding Practices_05_Simulation_p1.org][Grounding Practices_05_Simulation_p1.org]]

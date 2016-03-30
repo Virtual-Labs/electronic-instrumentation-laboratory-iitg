@@ -12,12 +12,13 @@
   - Open the url vlabs.ac.in and vlabs home page is displayed.
   - Click on IIT-Guwahati and a list of labs will be displayed on
     the screen.
-  - Select "Determination of Dynamic Performance Characteristics of First Order System"Lab, a home page is displayed and
+  - Select "Determination of Dynamic Performance Characteristics of Second Order System"Lab, a home page is displayed and
     click on list of experiments link, where a list of experiments
     will be displayed.
-  - Select "Determination of Dynamic Performance Characteristics of First Order System" experiment.
+  - Select "Determination of Dynamic Performance Characteristics of Second Order System" experiment.
 * Post Conditions
-  1. To study the dynamic performance characteristics of the first-order system by obtaining the responses to the following test inputs: Unit impulse, unit step, unit ramp, and sine wave (frequency response).
+  1. To study the dynamic performance characteristics of the second-order and differential second order system by obtaining the responses to the following test inputs: Unit impulse, unit step, unit ramp, and sine wave (frequency response).
+
 * Test steps
   1. Clicked on the Simulation link 
   2. It is re-directed to the Simulation page
