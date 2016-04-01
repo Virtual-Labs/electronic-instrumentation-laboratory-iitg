@@ -1,0 +1,39 @@
+* Statistics Report
+
+
+
+** Detailed Statistics : https://github.com/issues
+
+Total number of passed test cases = 95
+
+Total number of defects with S1 severity = 0
+
+Total number of defects with S2 severity = 0
+
+Total number of defects with S3 severity = 0
+
+Total number of failed test cases = 0
+
+|-------------------------------------------------------------------------------------------------------|
+| *S.no  |  Experiment Name                 |  Pass Count  |  S1     |  S2     |  S3     |  Fail Count* |
+|-------------------------------------------------------------------------------------------------------|
+| 1.     |  Signal Conditioning Circuit for RTD (Resistance Temperature Detector)  |  11          |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
+| 2.     |  Determination of Dynamic Performance Characteristics of Higher Order System  |  11          |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
+| 3.     |  Grounding Practices             |  5           |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
+| 4.     |  Determination of Dynamic Performance Characteristics of Second Order System  |  11          |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
+| 5.     |  Experiment Name                 |  1           |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
+| 6.     |  Magnetic Field Coupling         |  11          |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
+| 7.     |  Analog to Digital and Digital to Analog Conversion  |  11          |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
+| 8.     |  Determination of Dynamic Performance Characteristics of First Order System  |  11          |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
+| 9.     |  Understanding The Basic Functions Of An Oscilloscope  |  11          |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
+| 10.    |  Electric Field Coupling         |  12          |  0      |  0      |  0      |  0           |
+|-------------------------------------------------------------------------------------------------------|
